@@ -1,0 +1,10 @@
+@extends('vendor.cloudware-studio.admin.layouts.app')
+
+@section('content')
+<div class="container">
+    <div class="row">
+
+
+    </div>
+</div>
+@endsection

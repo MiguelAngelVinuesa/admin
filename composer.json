@@ -1,0 +1,23 @@
+{
+    "name": "cloudware-studio/admin",
+    "type": "application",
+    "description": "admin LTE for Laravel",
+    "homepage": "http://www.cloudware-studio.com",
+    "license": "MIT",
+    "keywords": ["laravel", "demo", "AdminLTE", "admin", "free"],
+    "authors": [
+        {
+            "name": "miky",
+            "email": "miguelangel@cloudware-studio.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Cloudware\\Admin\\": "vendor/cloudware-studio/admin/src"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
