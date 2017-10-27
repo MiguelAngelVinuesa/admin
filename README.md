@@ -1,5 +1,5 @@
 # Cloudware Studio Free Admin LTE
-easy admin LTE integration for Laravel
+Easy admin LTE integration for Laravel
 
 Manual de instalación:
 
